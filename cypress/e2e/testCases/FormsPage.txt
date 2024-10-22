@@ -1,0 +1,17 @@
+Test 1:
+Title = Form Layout tab is opened
+Steps
+- Open App
+- Expand Form section
+- Click Form Layouts tab
+Expected result
+- Form Layouts tab is displayed
+
+Test 2:
+Title = Datepicker tab is opened
+Steps
+- Open App
+- Expand Form section
+- Click Datepicker tab
+Expected result
+- Datepicker tab is displayed

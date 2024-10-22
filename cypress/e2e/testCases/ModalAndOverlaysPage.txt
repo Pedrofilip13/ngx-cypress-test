@@ -1,0 +1,44 @@
+Test 1:
+Title = Dialog tab is opened
+Steps
+- Open App
+- Expand Form section
+- Click Dialog tab
+Expected result
+- Dialog tab is displayed
+
+Test 2:
+Title = Window tab is opened
+Steps
+- Open App
+- Expand Form section
+- Click Window tab
+Expected result
+- Window tab is displayed
+
+Test 3:
+Title = Popover tab is opened
+Steps
+- Open App
+- Expand Form section
+- Click Popover tab
+Expected result
+- Popover tab is displayed
+
+Test 4:
+Title = Toastr tab is opened
+Steps
+- Open App
+- Expand Form section
+- Click Toastr tab
+Expected result
+- Toastr tab is displayed
+
+Test 5:
+Title = Tooltip tab is opened
+Steps
+- Open App
+- Expand Form section
+- Click Tooltip tab
+Expected result
+- Tooltip tab is displayed

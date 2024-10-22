@@ -1,0 +1,17 @@
+Test 1:
+Title = Stepper tab is opened
+Steps
+- Open App
+- Expand Layout section
+- Click Stepper tab
+Expected result
+- Stepper tab is clicked
+
+Test 2:
+Title = Accordion tab is opened
+Steps
+- Open App
+- Expand Layout section
+- Click Accordion tab
+Expected result
+- Accordion tab is clicked

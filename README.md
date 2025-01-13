@@ -24,3 +24,12 @@ nvm current # Should print "v22.13.0".
 
 # Verify npm version:
 npm -v # Should print "10.9.2".
+
+# Install cypress:
+npm install cypress --save-dev --force.
+
+# Start app:
+npm start.
+
+# Start cypress:
+npx cypress open.
